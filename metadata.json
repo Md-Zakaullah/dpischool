@@ -1,0 +1,6 @@
+{
+  "name": "Atherton Academy OS - Modern School Management",
+  "description": "Premium school management suite with live attendance, gradebook, timetable scheduling, student directory, tuition finance, and executive campus intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
