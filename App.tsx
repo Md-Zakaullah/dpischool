@@ -217,6 +217,7 @@ export default function App() {
         unreadNoticesCount={notices.filter(n => n.priority === 'Urgent').length}
         isOpenMobile={isMobileMenuOpen}
         onCloseMobile={() => setIsMobileMenuOpen(false)}
+        onOpenGitHub={() => setIsGitHubModalOpen(true)}
       />
 
       {/* Main Workspace Frame */}
